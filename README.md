@@ -30,9 +30,6 @@ To simulate real-world retail scenarios, synthetic transactional data was genera
 -> Regional purchasing behavior
 This approach allowed controlled experimentation and realistic analytics modeling.
 
-**Databricks Community Edition - Data Generation**
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/84db10a9-d09f-453a-884f-395ec30af78e" />
-
 **Corrected Workflow Section
 Project Workflow**
 -> Generated synthetic retail transaction data using Databricks Community Edition
@@ -44,3 +41,6 @@ Project Workflow**
 
 ##Demo Video
 https://github.com/user-attachments/assets/c36d7e2e-7379-4c89-8ad9-a4f69b9ed0dc
+
+**Databricks Community Edition - Data Generation**
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/84db10a9-d09f-453a-884f-395ec30af78e" />
